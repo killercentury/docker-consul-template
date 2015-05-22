@@ -1,1 +1,1 @@
-# docker-consul-template
+# Dockerized Consul Template
